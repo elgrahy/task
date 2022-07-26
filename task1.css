@@ -1,0 +1,19 @@
+header{
+  justify-content:space-evenly;
+  align-items:center ;
+  
+  
+} 
+p{
+  text-align: center;
+  text-transform: capitalize;
+  font: size 200px; 
+  padding: 20,200;
+}
+ .logo img{
+  align-items:center;
+  justify-content:space-between;
+  padding-right: 30;
+  padding-left: 80;
+  
+}
